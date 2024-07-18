@@ -1,4 +1,4 @@
-# Project Ttile:
+# Project Title:
 Fitbit Dataset Analysis and Machine Learning Models
 
 # Introduction:

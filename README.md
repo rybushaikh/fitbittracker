@@ -1,4 +1,5 @@
-# Fitbit Dataset Analysis and Machine Learning Models
+# Project Ttile:
+Fitbit Dataset Analysis and Machine Learning Models
 
 # Introduction:
 This project involves the analysis and preprocessing of a Fitbit dataset, followed by the application of various machine learning algorithms. The goal is to derive insights and build predictive models using the provided data. The project utilizes several data preprocessing and engineering techniques, followed by the implementation of algorithms with hyperparameter tuning.
